@@ -20,3 +20,8 @@ Write HTML pages and corresponding JavaScript to perform the following:
 
 See sample image to see expected output.
 
+/*
+
+	KEY: Pretty Good
+	Check readme. You have most of the information, but you have printing on page 2. And missing page title and last modified.
+*/
